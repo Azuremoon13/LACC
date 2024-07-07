@@ -1,0 +1,86 @@
+{
+	"de": {
+		"Global": "Global",
+		"Local": "Lokal",
+		"Tribe": "Stamm",
+		"Alliance": "Allianz"
+	},
+	"da": {
+		"Global": "Global",
+		"Local": "Lokal",
+		"Tribe": "Stamme",
+		"Alliance": "Alliance"
+	},
+	"en": {
+		"Global": "Global",
+		"Local": "Local",
+		"Tribe": "Tribe",
+		"Alliance": "Alliance"
+	},
+	"es": {
+		"Global": "Global",
+		"Local": "Local",
+		"Tribe": "Tribu",
+		"Alliance": "Alianza"
+	},
+	"fr": {
+		"Global": "Général",
+		"Local": "Locale",
+		"Tribe": "Tribu",
+		"Alliance": "Alliance"
+	},
+	"it": {
+		"Global": "Globale",
+		"Local": "Locale",
+		"Tribe": "Tribù",
+		"Alliance": "Alleanza"
+	},
+	"ja": {
+		"Global": "全体",
+		"Local": "ローカル",
+		"Tribe": "トライブ",
+		"Alliance": "同盟"
+	},
+	"ko": {
+		"Global": "글로벌",
+		"Local": "구역",
+		"Tribe": "부족",
+		"Alliance": "연맹"
+	},
+	"nl": {
+		"Global": "Mondiaal",
+		"Local": "Lokaal",
+		"Tribe": "Stam",
+		"Alliance": "Bondgenootschap"
+	},
+	"pt-BR": {
+		"Global": "Global",
+		"Local": "Local",
+		"Tribe": "Tribo",
+		"Alliance": "Aliança"
+	},
+	"ru": {
+		"Global": "Всем",
+		"Local": "Локально",
+		"Tribe": "Племя",
+		"Alliance": "Альянс"
+	},
+	"tr": {
+		"Global": "Genel",
+		"Local": "Yerel",
+		"Tribe": "Kabile",
+		"Alliance": "İttifak"
+	},
+	"zh": {
+		"Global": "Global",
+		"Local": "Local",
+		"Tribe": "Tribe",
+		"Alliance": "Alliance"
+	},
+	"zh-TW": {
+		"Global": "Global",
+		"Local": "Local",
+		"Tribe": "Tribe",
+		"Alliance": "Alliance"
+	}
+}
