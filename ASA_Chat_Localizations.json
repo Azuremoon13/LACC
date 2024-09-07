@@ -1,86 +1,86 @@
 {
 	"de": {
 		"Global": "Global",
-		"Local": "Lokal",
 		"Tribe": "Stamm",
-		"Alliance": "Allianz"
+		"Alliance": "Allianz",
+		"Local": "Lokal"
 	},
 	"da": {
 		"Global": "Global",
-		"Local": "Lokal",
 		"Tribe": "Stamme",
-		"Alliance": "Alliance"
+		"Alliance": "Alliance",
+		"Local": "Lokal"
 	},
 	"en": {
 		"Global": "Global",
-		"Local": "Local",
 		"Tribe": "Tribe",
-		"Alliance": "Alliance"
+		"Alliance": "Alliance",
+		"Local": "Local"
 	},
 	"es": {
 		"Global": "Global",
-		"Local": "Local",
 		"Tribe": "Tribu",
-		"Alliance": "Alianza"
+		"Alliance": "Alianza",
+		"Local": "Local"
 	},
 	"fr": {
 		"Global": "Général",
-		"Local": "Locale",
 		"Tribe": "Tribu",
-		"Alliance": "Alliance"
+		"Alliance": "Alliance",
+		"Local": "Locale"
 	},
 	"it": {
 		"Global": "Globale",
-		"Local": "Locale",
 		"Tribe": "Tribù",
-		"Alliance": "Alleanza"
+		"Alliance": "Alleanza",
+		"Local": "Locale"
 	},
 	"ja": {
 		"Global": "全体",
-		"Local": "ローカル",
 		"Tribe": "トライブ",
-		"Alliance": "同盟"
+		"Alliance": "同盟",
+		"Local": "ローカル"
 	},
 	"ko": {
 		"Global": "글로벌",
-		"Local": "구역",
 		"Tribe": "부족",
-		"Alliance": "연맹"
+		"Alliance": "연맹",
+		"Local": "구역"
 	},
 	"nl": {
 		"Global": "Mondiaal",
-		"Local": "Lokaal",
 		"Tribe": "Stam",
-		"Alliance": "Bondgenootschap"
+		"Alliance": "Bondgenootschap",
+		"Local": "Lokaal"
 	},
 	"pt-BR": {
 		"Global": "Global",
-		"Local": "Local",
 		"Tribe": "Tribo",
-		"Alliance": "Aliança"
+		"Alliance": "Aliança",
+		"Local": "Local"
 	},
 	"ru": {
 		"Global": "Всем",
-		"Local": "Локально",
 		"Tribe": "Племя",
-		"Alliance": "Альянс"
+		"Alliance": "Альянс",
+		"Local": "Локально"
 	},
 	"tr": {
 		"Global": "Genel",
-		"Local": "Yerel",
 		"Tribe": "Kabile",
-		"Alliance": "İttifak"
+		"Alliance": "İttifak",
+		"Local": "Yerel"
 	},
 	"zh": {
-		"Global": "Global",
-		"Local": "Local",
-		"Tribe": "Tribe",
-		"Alliance": "Alliance"
+		"Global": "全服",
+		"Tribe": "部落",
+		"Alliance": "联盟",
+		"Local": "本地"
 	},
 	"zh-TW": {
-		"Global": "Global",
-		"Local": "Local",
-		"Tribe": "Tribe",
-		"Alliance": "Alliance"
+		"Global": "全服",
+		"Tribe": "部落",
+		"Alliance": "聯盟",
+		"Local": "本地"
 	}
 }
